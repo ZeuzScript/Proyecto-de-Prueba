@@ -1,2 +1,5 @@
 Esta el la forma mas fácil de entender como
+
 funciona git en nuestra computadora
+
+Pero también es parte de la gran variedad de info
